@@ -39,6 +39,8 @@ If you checked out this project from github, you can find a configuration file e
 	"webPort": 8000,
 
     "mongodbUrl": "mongodb://username:password@localhost/database",
+    "apiToken" : "ASDF1234567890",
+    "appToken" : "ASDF1234567890",
 
     "gcm": {
         "apiKey": "YOUR_API_KEY_HERE"
